@@ -32,9 +32,12 @@
 
 1. 確保已經安裝了 [VSCode](https://code.visualstudio.com/) 和 [MinGW](http://www.mingw.org/) 或其他 C++ 編譯器。
 2. 從 GitHub 倉庫克隆此項目：
+
    ```bash
-   git clone https://github.com/Rae-C429/Datastructure-Oop
+   git clone https://github.com/Rae-C429/Datastructure-Oop.git
+
    ```
+
 3. 打開 VSCode 並導入項目。
 
 ## 使用方式
